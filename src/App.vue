@@ -6,7 +6,7 @@
       </div>
       <div class="col-md-12">
         <div class="card">
-          <div class="card-header">เขียนคำร้องทั่วไป</div>
+          <div class="card-header">แบบฟอร์มโอนย้ายสาขาวิชาต่างคณะ</div>
           <div class="card-body">
             <form class="form">
               <div class="row">
